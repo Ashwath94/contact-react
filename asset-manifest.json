@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/contact-react/static/css/main.9ba4c93d.chunk.css",
-    "main.js": "/contact-react/static/js/main.b4bd1a80.chunk.js",
-    "main.js.map": "/contact-react/static/js/main.b4bd1a80.chunk.js.map",
-    "runtime-main.js": "/contact-react/static/js/runtime-main.e3e80c9e.js",
-    "runtime-main.js.map": "/contact-react/static/js/runtime-main.e3e80c9e.js.map",
-    "static/js/2.bd7de42f.chunk.js": "/contact-react/static/js/2.bd7de42f.chunk.js",
-    "static/js/2.bd7de42f.chunk.js.map": "/contact-react/static/js/2.bd7de42f.chunk.js.map",
-    "index.html": "/contact-react/index.html",
-    "precache-manifest.4ca32f71fc32c0b9ff93b88c5e917f58.js": "/contact-react/precache-manifest.4ca32f71fc32c0b9ff93b88c5e917f58.js",
-    "service-worker.js": "/contact-react/service-worker.js",
-    "static/css/main.9ba4c93d.chunk.css.map": "/contact-react/static/css/main.9ba4c93d.chunk.css.map"
+    "main.css": "/Ashwath94/contact-react.git/static/css/main.9ba4c93d.chunk.css",
+    "main.js": "/Ashwath94/contact-react.git/static/js/main.b4bd1a80.chunk.js",
+    "main.js.map": "/Ashwath94/contact-react.git/static/js/main.b4bd1a80.chunk.js.map",
+    "runtime-main.js": "/Ashwath94/contact-react.git/static/js/runtime-main.8a521fb3.js",
+    "runtime-main.js.map": "/Ashwath94/contact-react.git/static/js/runtime-main.8a521fb3.js.map",
+    "static/js/2.bd7de42f.chunk.js": "/Ashwath94/contact-react.git/static/js/2.bd7de42f.chunk.js",
+    "static/js/2.bd7de42f.chunk.js.map": "/Ashwath94/contact-react.git/static/js/2.bd7de42f.chunk.js.map",
+    "index.html": "/Ashwath94/contact-react.git/index.html",
+    "precache-manifest.d6b12a127713911780e8cac91685c6d0.js": "/Ashwath94/contact-react.git/precache-manifest.d6b12a127713911780e8cac91685c6d0.js",
+    "service-worker.js": "/Ashwath94/contact-react.git/service-worker.js",
+    "static/css/main.9ba4c93d.chunk.css.map": "/Ashwath94/contact-react.git/static/css/main.9ba4c93d.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.e3e80c9e.js",
+    "static/js/runtime-main.8a521fb3.js",
     "static/js/2.bd7de42f.chunk.js",
     "static/css/main.9ba4c93d.chunk.css",
     "static/js/main.b4bd1a80.chunk.js"
